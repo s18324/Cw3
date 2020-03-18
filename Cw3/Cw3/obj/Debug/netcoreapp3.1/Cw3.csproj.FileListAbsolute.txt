@@ -16,3 +16,5 @@ C:\Users\oski_\RiderProjects\Cw3\Cw3\obj\Debug\netcoreapp3.1\staticwebassets\Cw3
 C:\Users\oski_\RiderProjects\Cw3\Cw3\obj\Debug\netcoreapp3.1\staticwebassets\Cw3.StaticWebAssets.xml
 C:\Users\oski_\RiderProjects\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.dll
 C:\Users\oski_\RiderProjects\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.pdb
+C:\Users\oski_\RiderProjects\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.csproj.CoreCompileInputs.cache
+C:\Users\oski_\RiderProjects\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.genruntimeconfig.cache

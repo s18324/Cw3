@@ -1,4 +1,5 @@
 ﻿using System;
+using Cw3.DAL;
 using Cw3.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +9,7 @@ namespace Cw3.Controllers
     [Route("api/students")]
     public class StudentsController : ControllerBase
     {
+        
         //Zadanie 4
         
         // [HttpGet]
@@ -33,5 +35,34 @@ namespace Cw3.Controllers
             return Ok(student);
         }
         
+        //zadanie 7
+        
+        [HttpPut("{id}")]
+        public IActionResult PutStudent(int id)
+        {
+            return Ok("Aktualizacja dokończona");
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteStudent(int id)
+        {
+            return Ok("Usuwanie ukończone");
+        }
+        
+        //zadanie 8
+        
+        private readonly IDbService _dbService;
+
+        public StudentsController(IDbService dbService)
+        {
+            _dbService = dbService;
+        }
+
+        [HttpGet]
+        public IActionResult GetStudents(string orderBy)
+        {
+            return Ok(_dbService.GetStudents());
+        }
+
     }
 }
