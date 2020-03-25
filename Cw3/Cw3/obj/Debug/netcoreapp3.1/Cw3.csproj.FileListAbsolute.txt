@@ -18,3 +18,9 @@ C:\Users\oski_\RiderProjects\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.dll
 C:\Users\oski_\RiderProjects\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.pdb
 C:\Users\oski_\RiderProjects\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.csproj.CoreCompileInputs.cache
 C:\Users\oski_\RiderProjects\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.genruntimeconfig.cache
+C:\Users\oski_\Desktop\Cw3\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.csprojAssemblyReference.cache
+C:\Users\oski_\Desktop\Cw3\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.csproj.CoreCompileInputs.cache
+C:\Users\oski_\Desktop\Cw3\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oski_\Desktop\Cw3\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.AssemblyInfoInputs.cache
+C:\Users\oski_\Desktop\Cw3\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.AssemblyInfo.cs
+C:\Users\oski_\Desktop\Cw3\Cw3\Cw3\obj\Debug\netcoreapp3.1\Cw3.dll
